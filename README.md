@@ -1,3 +1,24 @@
+* site deployed here: bit.ly/CRA-deploy
+
+* photography portfolio site.
+* made components for different sections of the site,
+* about, contact, gallery, modal, nav, photolist.
+* These are built on a single page application, using useeffect and usestate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
